@@ -427,23 +427,23 @@ div.WordSection1
 
 <p class=MsoNormal>function showSection(id) {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>const sections =
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>const sections =
 document.querySelectorAll('.section');<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'> 
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â 
 </span>sections.forEach(section =&gt; {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>   
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â 
 </span>section.classList.remove('active');<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>});<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>});<o:p></o:p></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>const active =
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>const active =
 document.getElementById(id);<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>if (active)
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>if (active)
 active.classList.add('active');<o:p></o:p></p>
 
 <p class=MsoNormal>}</p>
