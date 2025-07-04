@@ -431,16 +431,16 @@ div.WordSection1
 
 <p class=MsoNormal>* {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>box-<span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>box-<span
 class=SpellE>sizing</span>: <span class=SpellE>border</span>-box;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>margin</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>margin</span>:
 0;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>padding</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>padding</span>:
 0;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>font-family</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>font-family</span>:
 'Segoe UI', <span class=SpellE>sans-serif</span>;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
@@ -449,10 +449,10 @@ class=SpellE>sizing</span>: <span class=SpellE>border</span>-box;<o:p></o:p></p>
 
 <p class=MsoNormal><span class=SpellE>body</span> {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>background-color:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>background-color:
 #f5faff;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>color: #111;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>color: #111;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
 
@@ -460,16 +460,16 @@ class=SpellE>sizing</span>: <span class=SpellE>border</span>-box;<o:p></o:p></p>
 
 <p class=MsoNormal>header {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>background-color:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>background-color:
 #e6f0ff;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>padding</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>padding</span>:
 20px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>text-align</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>text-align</span>:
 center;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>border-bottom</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>border-bottom</span>:
 2px <span class=SpellE>solid</span> #c0d4f4;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
@@ -478,9 +478,9 @@ center;<o:p></o:p></p>
 
 <p class=MsoNormal>h1 {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>color: #2a5ea4;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>color: #2a5ea4;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>font-size</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>font-size</span>:
 2.2rem;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
@@ -489,12 +489,12 @@ center;<o:p></o:p></p>
 
 <p class=MsoNormal>.slogan {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>color: #444;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>color: #444;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>font-style</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>font-style</span>:
 <span class=SpellE>italic</span>;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>margin</span>-top:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>margin</span>-top:
 4px;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
@@ -503,7 +503,7 @@ center;<o:p></o:p></p>
 
 <p class=MsoNormal><span class=SpellE>nav</span> {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>margin</span>-top:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>margin</span>-top:
 15px;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
@@ -513,30 +513,30 @@ center;<o:p></o:p></p>
 <p class=MsoNormal><span class=SpellE>nav</span> <span class=SpellE>button</span>
 {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>background-color:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>background-color:
 #2a5ea4;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>color: #<span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>color: #<span
 class=SpellE>fff</span>;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>border</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>border</span>:
 <span class=SpellE>none</span>;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>margin</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>margin</span>:
 0 5px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>padding</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>padding</span>:
 10px 16px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>border-radius</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>border-radius</span>:
 8px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>cursor: pointer;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>cursor: pointer;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>font-size</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>font-size</span>:
 1rem;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>transition</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>transition</span>:
 background 0.3s <span class=SpellE>ease</span>;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
@@ -546,7 +546,7 @@ background 0.3s <span class=SpellE>ease</span>;<o:p></o:p></p>
 <p class=MsoNormal><span class=SpellE>nav</span> <span class=SpellE>button:hover</span>
 {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>background-color:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>background-color:
 #174a87;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
@@ -555,7 +555,7 @@ background 0.3s <span class=SpellE>ease</span>;<o:p></o:p></p>
 
 <p class=MsoNormal><span class=SpellE>main</span> {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span><span class=SpellE>padding</span>:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span><span class=SpellE>padding</span>:
 20px;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
@@ -564,7 +564,7 @@ background 0.3s <span class=SpellE>ease</span>;<o:p></o:p></p>
 
 <p class=MsoNormal>.<span class=SpellE>section</span> {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>display: <span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>display: <span
 class=SpellE>none</span>;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
@@ -573,7 +573,7 @@ class=SpellE>none</span>;<o:p></o:p></p>
 
 <p class=MsoNormal>.<span class=SpellE>section.active</span> {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>  </span>display: <span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â  </span>display: <span
 class=SpellE>block</span>;<o:p></o:p></p>
 
 <p class=MsoNormal>}</p>
